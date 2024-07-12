@@ -1,8 +1,4 @@
-# U-Net
-Introduced by Ronneberger et al. 
-in U-Net: Convolutional Networks for Biomedical Image Segmentation
-- [paper with code](https://paperswithcode.com/method/u-net)
-- [how to read](https://media-ai.tistory.com/7)
+# Paper Review
 ### STEP 1
 Read paper
 - understanding algorithm, idea, experiment
