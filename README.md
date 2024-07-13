@@ -8,3 +8,8 @@ See code
 ### STEP 3
 Implementation
 - imploving reproducibility
+
+## Lab meeting
+| date | subject | paper study                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.19    | Vision Transformer    | [velog](https://velog.io/@boyamie_/Vision-Transformer-1)                 |
